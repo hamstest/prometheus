@@ -1,0 +1,37 @@
+node_modules/
+dist/
+data/
+.cache/
+coverage/
+test-results/
+__pycache__/
+*.log
+*.sqlite*
+*.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+auth.json
+credentials.json
+/config/access.json
+# Third-party models and motion recordings must be obtained separately.
+*.vrm
+*.vrma
+*.bvh
+*.fbx
+*.glb
+*.gltf
+*.asf
+*.amc
+/datasets/
+# Local verification captures can include conversations and machine details.
+/docs/*-verification.json
+/docs/*-report.json
+/docs/*-playback.json
+/docs/*-smoke.json
+/docs/ui-proposals/
+/docs/tailscale.md

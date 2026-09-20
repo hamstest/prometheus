@@ -1,0 +1,25 @@
+{
+  "description": "Offline authored chest-height facing palms. Runtime uses ordinary clip interpolation.",
+  "close": {
+    "rightUpperArm.x": -0.392941,
+    "rightUpperArm.y": 1.115625,
+    "rightUpperArm.z": 0.668033,
+    "rightLowerArm.x": -0.084406,
+    "rightLowerArm.y": 1.465758,
+    "rightLowerArm.z": -0.003059,
+    "rightHand.x": 0.170177,
+    "rightHand.y": 0.541412,
+    "rightHand.z": -1.185432
+  },
+  "open": {
+    "rightUpperArm.x": -0.385557,
+    "rightUpperArm.y": 0.698006,
+    "rightUpperArm.z": 0.713458,
+    "rightLowerArm.x": -0.056282,
+    "rightLowerArm.y": 1.576556,
+    "rightLowerArm.z": -0.003046,
+    "rightHand.x": 0.04541,
+    "rightHand.y": 0.784033,
+    "rightHand.z": -0.922365
+  }
+}
